@@ -17,18 +17,17 @@
   - Write the book "Entrepreneur's Compass: Competitor Analysis".
 
   📫 **Contact**:
-  - Email: alexey@example.com
-  - LinkedIn: [Alexey Borodulin](https://linkedin.com/in/alexey-borodulin)
+  - Email: alex99999@mail.ru
+  - My site: [Алексей Бородулин](https://borodulin.expert)
   - GitHub: [AlexeyBoroda](https://github.com/AlexeyBoroda)
+  - VK: https://vk.com/borodulin_expert
+
 
   ### 📂 Projects
   Here are some of my key projects:
 
   1. [**Project_oil**](https://github.com/AlexeyBoroda/Project_oil) - A project for selecting the most suitable region for developing oil wells using machine learning methods.
 
-  2. [**Titanic Analysis**](https://github.com/AlexeyBoroda/Titanic) - Data analysis of the Titanic ship, predicting passenger survival using machine learning algorithms.
-
-  3. [**Entrepreneur Compass**](https://github.com/AlexeyBoroda/Entrepreneur_Compass) - A project for creating the book "Entrepreneur's Compass" to help aspiring businesspeople.
 
   ### 💼 Work Experience
   - **Head of Product Managers**, Promsvyazbank (2017 — present)
@@ -64,20 +63,18 @@
   - Написать книгу "Компас предпринимателя: анализ конкурентов".
 
   📫 **Контакты**:
-  - Email: alexey@example.com
-  - LinkedIn: [Алексей Бородулин](https://linkedin.com/in/alexey-borodulin)
+  - Email: alex99999@mail.ru
+  - Мой сайт: [Алексей Бородулин](https://borodulin.expert)
   - GitHub: [AlexeyBoroda](https://github.com/AlexeyBoroda)
+  - VK: https://vk.com/borodulin_expert
+
 
   ### 📂 Проекты
   Здесь можно найти мои основные проекты:
 
   1. [**Project_oil**](https://github.com/AlexeyBoroda/Project_oil) - проект по выбору наиболее подходящего региона для разработки нефтяных скважин с использованием методов машинного обучения.
 
-  2. [**Titanic Analysis**](https://github.com/AlexeyBoroda/Titanic) - анализ данных с корабля Титаник, предсказание выживаемости пассажиров с использованием алгоритмов машинного обучения.
-
-  3. [**Entrepreneur Compass**](https://github.com/AlexeyBoroda/Entrepreneur_Compass) - проект по созданию книги "Компас предпринимателя" для помощи начинающим бизнесменам.
-
-  ### 💼 Опыт работы
+    ### 💼 Опыт работы
   - **Руководитель продуктовых менеджеров**, Promsvyazbank (2017 — настоящее время)
     - Разработка и внедрение расчетных продуктов для МСБ, корпоративных клиентов и оборонного сектора.
     - Управление командами и координация проектов.

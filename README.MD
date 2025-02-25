@@ -1,5 +1,6 @@
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true)
 
   # About Me
   

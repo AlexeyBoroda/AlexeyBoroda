@@ -13,20 +13,14 @@
 
   🎯 **Goals for 2024**:
   - Improve Data Science skills and build several models for data analysis.
-  - Write the book "Entrepreneur's Compass: Competitor Analysis".
+  - Start experimenting with modeling
+  - Rebuild your website
 
   📫 **Contact**:
   - Email: alex99999@mail.ru
   - My site: [Алексей Бородулин](https://borodulin.expert)
   - GitHub: [AlexeyBoroda](https://github.com/AlexeyBoroda)
   - VK: https://vk.com/borodulin_expert
-
-
-  ### 📂 Projects
-  Here are some of my key projects:
-
-  1. [**Project_oil**](https://github.com/AlexeyBoroda/Project_oil) - A project for selecting the most suitable region for developing oil wells using machine learning methods.
-
 
   ### 💼 Work Experience
   - **Head of Product Managers**, Promsvyazbank (2017 — present)
@@ -57,9 +51,10 @@
   - Машинное обучение и анализ данных (Python, Pandas, Scikit-learn)
   - Git, работа с версиями и коллаборация на GitHub
 
-  🎯 **Цели на 2024 год**:
+  🎯 **Цели на 2025 год**:
   - Улучшить навыки Data Science и построить несколько моделей для анализа данных.
-  - Написать книгу "Компас предпринимателя: анализ конкурентов".
+  - Начать эсперементы с моделированием
+  - Пересобрать свой сайт
 
   📫 **Контакты**:
   - Email: alex99999@mail.ru
@@ -67,11 +62,6 @@
   - GitHub: [AlexeyBoroda](https://github.com/AlexeyBoroda)
   - VK: https://vk.com/borodulin_expert
 
-
-  ### 📂 Проекты
-  Здесь можно найти мои основные проекты:
-
-  1. [**Project_oil**](https://github.com/AlexeyBoroda/Project_oil) - проект по выбору наиболее подходящего региона для разработки нефтяных скважин с использованием методов машинного обучения.
 
     ### 💼 Опыт работы
   - **Руководитель продуктовых менеджеров**, Promsvyazbank (2017 — настоящее время)

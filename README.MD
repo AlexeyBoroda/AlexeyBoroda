@@ -11,7 +11,7 @@
   - Machine learning and data analysis (Python, Pandas, Scikit-learn)
   - Git, version control, and collaboration on GitHub
 
-  🎯 **Goals for 2024**:
+  🎯 **Goals for 2025**:
   - Improve Data Science skills and build several models for data analysis.
   - Start experimenting with modeling
   - Rebuild your website

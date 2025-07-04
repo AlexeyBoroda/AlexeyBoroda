@@ -56,9 +56,8 @@
 ![Agile](https://img.shields.io/badge/-Agile-0052CC?style=flat-square)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square)
 ![Kanban](https://img.shields.io/badge/-Kanban-3178C6?style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
+
 
 </div>
 

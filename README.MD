@@ -92,20 +92,17 @@
 ## 🧪 Тестирование Минцифры
 
 ✅ Успешно прошёл официальные тесты на платформе **Минцифры России**, подтверждающие следующие компетенции:
+## 📄 Сертификаты Минцифры
 
-- [![Сертификат «Python (базовый уровень)»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Python.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Python.png)
-
-- [![Сертификат «PostgreSQL»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/PostgreSQL.jpg?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/PostgreSQL.jpg)
-
-- [![Сертификат «Docker»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Docker.jpg?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Docker.jpg)
-
-- [![Сертификат «GIT»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/GIT.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/GIT.png)
-
-- [![Сертификат «HTML»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/HTML.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/HTML.png)
-
-- [![Сертификат «PHP»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/PHP.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/PHP.png)
-
-- [![Сертификат «CSS»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/CSS.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/CSS.png)
+<ul>
+  <li>1️⃣ <a href="https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Python.png?raw=true" target="_blank">Сертификат «Python (базовый уровень)»</a></li>
+  <li>2️⃣ <a href="https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/PostgreSQL.jpg?raw=true" target="_blank">Сертификат «PostgreSQL»</a></li>
+  <li>3️⃣ <a href="https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Docker.jpg?raw=true" target="_blank">Сертификат «Docker»</a></li>
+  <li>4️⃣ <a href="https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/GIT.png?raw=true" target="_blank">Сертификат «GIT»</a></li>
+  <li>5️⃣ <a href="https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/HTML.png?raw=true" target="_blank">Сертификат «HTML»</a></li>
+  <li>6️⃣ <a href="https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/PHP.png?raw=true" target="_blank">Сертификат «PHP»</a></li>
+  <li>7️⃣ <a href="https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/CSS.png?raw=true" target="_blank">Сертификат «CSS»</a></li>
+</ul>
 
 
 ---

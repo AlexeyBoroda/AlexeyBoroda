@@ -93,12 +93,20 @@
 
 ✅ Успешно прошёл официальные тесты на платформе **Минцифры России**, подтверждающие следующие компетенции:
 
-- [![Сертификат «Python (базовый уровень)*»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Python.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Python.png.png)
+- [![Сертификат «Python (базовый уровень)»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Python.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Python.png)
 
-- Компетенции в области **искусственного интеллекта и машинного обучения**
+- [![Сертификат «PostgreSQL»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/PostgreSQL.jpg?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/PostgreSQL.jpg)
 
-> Подтверждённые результаты доступны по запросу.  
-> Скриншоты и ссылки будут добавлены в следующих обновлениях.
+- [![Сертификат «Docker»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Docker.jpg?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Docker.jpg)
+
+- [![Сертификат «GIT»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/GIT.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/GIT.png)
+
+- [![Сертификат «HTML»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/HTML.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/HTML.png)
+
+- [![Сертификат «PHP»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/PHP.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/PHP.png)
+
+- [![Сертификат «CSS»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/CSS.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/CSS.png)
+
 
 ---
 

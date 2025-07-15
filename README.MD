@@ -93,7 +93,8 @@
 
 ✅ Успешно прошёл официальные тесты на платформе **Минцифры России**, подтверждающие следующие компетенции:
 
-- **Python (базовый уровень)**
+- [![Сертификат «Python (базовый уровень)*»](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Python.png?raw=true)](https://github.com/AlexeyBoroda/AlexeyBoroda/blob/main/images/Python.png.png)
+
 - Компетенции в области **искусственного интеллекта и машинного обучения**
 
 > Подтверждённые результаты доступны по запросу.  
